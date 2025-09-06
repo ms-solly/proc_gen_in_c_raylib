@@ -1,0 +1,3 @@
+[submodule "res/FastNoiseLite"]
+	path = res/FastNoiseLite
+	url = git@github.com:Auburn/FastNoiseLite.git
