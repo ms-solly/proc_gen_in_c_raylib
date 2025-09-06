@@ -1,0 +1,4 @@
+*.exe
+*.dsym
+*.obj
+craylib
