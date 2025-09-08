@@ -53,7 +53,7 @@ typedef struct{
 
 TyleType world_data[WORLD_HEIGHT][WORLD_WIDTH];
 
-Tile world_tiles[WORLD_HEIGHT][WORLD_WIDTH];
+// Tile world_tiles[WORLD_HEIGHT][WORLD_WIDTH];
 
 /*
 * static void generate_world(void){
